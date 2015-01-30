@@ -4,7 +4,7 @@
 ## Compiling and Running Programs
 Reference: http://www.informit.com/articles/article.aspx?p=1315356
 
-- using xcode
+- Using xcode
 Starting a new project: creating a Foundation tool
 
 - Using Terminal
